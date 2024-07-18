@@ -5,7 +5,7 @@ Este proyecto es aprendizaje de Nest.js con GraphQL conectado a Base de datos po
 NOTAS: [Curso GraphQL en Nest.js](https://www.notion.so/Curso-GraphQL-en-Nest-js-0b269d976e1549b09af47b5c6abb512c?pvs=4)
 
 
-# Inicializar proyecto en Dev
+## Inicializar proyecto en Dev
 
 1. Clonar el proyecto 
 2. Copiar el ```env.template``` y renombrar a ```.env``` y agregar la DB_PASSWORD
